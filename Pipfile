@@ -23,6 +23,7 @@ flask-bcrypt = "*"
 stripe = "*"
 flask-cors = "*"
 tomli = "*"
+colorama = "*"
 
 [requires]
 python_version = "3.13"
